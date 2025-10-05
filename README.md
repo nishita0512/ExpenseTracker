@@ -41,15 +41,20 @@ This API supports CRUD operations, categories, summary reports, and basic valida
     git clone https://github.com/nishita0512/ExpenseTracker.git
     ```
 
-2.  **Open the project in IntelliJ:**
+2.  **Open the project in IntelliJ**
 
-3.  **Open the ExpenseTrackerApplication (path: expenseTracker/src/main/java/com/example/expenseTracker/)**
+3.  **Install Lombok Plugin in IntelliJ Settings**:
+    <img width="989" height="741" alt="image" src="https://github.com/user-attachments/assets/b7837546-1edf-43fc-8ad8-9f75ba0df0d4" />
 
-4. **Click the green run button:**
+4.  **Enable Annotation Processing in IntelliJ:**
+    <img width="998" height="744" alt="image" src="https://github.com/user-attachments/assets/69eb2d6a-512f-4d0c-bc4c-ba8662a71e10" />
+
+5.  **Open the ExpenseTrackerApplication (path: expenseTracker/src/main/java/com/example/expenseTracker/)**
+
+6. **Click the green run button:**
    <img width="851" height="240" alt="image" src="https://github.com/user-attachments/assets/265a46c7-38a2-4af3-875d-a44b65595683" />
 
-
-5. **Access the API:**
+7. **Access the API:**
     Test endpoints using a tool like Postman or with `curl`.
     ```bash
     curl -X GET http://localhost:8080/api/expenses
@@ -103,8 +108,8 @@ A standard structure for returning validation or runtime errors.
     *After Update:*
     <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/2871a43b-5b85-43a5-998b-14dc75a47b9d" />
 
-6.  **Summary Report**
+5.  **Summary Report**
     <img width="1145" height="417" alt="image" src="https://github.com/user-attachments/assets/73665de0-2c49-49a4-aac5-3ce7ad0006b2" />
 
-7.  **Validation Error**
+6.  **Validation Error**
     <img width="1145" height="324" alt="image" src="https://github.com/user-attachments/assets/d7e94976-8b14-44e8-a977-9d2ad4fdd614" />
