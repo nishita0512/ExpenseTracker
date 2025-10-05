@@ -43,9 +43,11 @@ This API supports CRUD operations, categories, summary reports, and basic valida
 
 2.  **Open the project in IntelliJ:**
 
-3.  **Open the ExpenseTrackerApplication (path: expenseTracker/src/main/java/com/example/expenseTracker/) :**
+3.  **Open the ExpenseTrackerApplication (path: expenseTracker/src/main/java/com/example/expenseTracker/)**
 
-4. **Click the green run button**
+4. **Click the green run button:**
+   <img width="851" height="240" alt="image" src="https://github.com/user-attachments/assets/265a46c7-38a2-4af3-875d-a44b65595683" />
+
 
 5. **Access the API:**
     Test endpoints using a tool like Postman or with `curl`.
@@ -83,32 +85,26 @@ A standard structure for returning validation or runtime errors.
 ## 📸 Sample Requests & Responses
 
 1.  **Add Expense**
-    <img width="1144" height="315" alt="image" src="https://github.com/user-attachments/assets/ea8d20d1-042a-4362-ad29-5d702f735ccf" />
-
+    <img width="1144" height="315" alt="image" src="https://github.com/user-attachments/assets/0937940b-8292-4f85-947b-7c5038496c0d" />
 
 2.  **Get All Expenses**
-    <img width="1145" height="434" alt="image" src="https://github.com/user-attachments/assets/49755e34-aef5-487d-b175-c3ef19fa5793" />
-
+    <img width="1145" height="434" alt="image" src="https://github.com/user-attachments/assets/3c135042-7d79-47b7-97ab-cff3671dfce2" />
 
 3.  **Get Expenses by Month**
-    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/1fb52812-0a05-4c29-86af-816748869183" />
-
+    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/7d96b6fb-78d8-435e-b325-afe7b92d1e62" />
 
 4.  **Update Expense**  
     *Before Update:*
-    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/1d85cf8e-2df5-4146-a548-8f7e6eb8d03a" />
+    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/4c13da41-5f86-49e2-b117-8feafad7812c" />
 
     *Update Response:*
-    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/5c44690e-b8ab-4fbd-809b-eabb4bd9738d" />
-
+    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/94bc4285-a716-4391-baf3-da758fd856a0" />
 
     *After Update:*
-    <img width="1145" height="262" alt="image" src="https://github.com/user-attachments/assets/1acc39fd-3cd4-464d-b9f3-761f80e6b391" />
-
+    <img width="1145" height="290" alt="image" src="https://github.com/user-attachments/assets/2871a43b-5b85-43a5-998b-14dc75a47b9d" />
 
 6.  **Summary Report**
-    <img width="1145" height="417" alt="image" src="https://github.com/user-attachments/assets/d3593916-c6a7-466f-9fc0-afcb14ab06e9" />
-
+    <img width="1145" height="417" alt="image" src="https://github.com/user-attachments/assets/73665de0-2c49-49a4-aac5-3ce7ad0006b2" />
 
 7.  **Validation Error**
-    <img width="1145" height="324" alt="image" src="https://github.com/user-attachments/assets/b1101a66-d483-4bf0-be21-36d63e2e88d5" />
+    <img width="1145" height="324" alt="image" src="https://github.com/user-attachments/assets/d7e94976-8b14-44e8-a977-9d2ad4fdd614" />
