@@ -39,20 +39,15 @@ This API supports CRUD operations, categories, summary reports, and basic valida
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/nishita0512/ExpenseTracker.git
-    cd ExpenseTrackerAPI
     ```
 
-2.  **Build the project with Maven:**
-    ```bash
-    mvn clean install
-    ```
+2.  **Open the project in IntelliJ:**
 
-3.  **Run the Spring Boot application:**
-    ```bash
-    mvn spring-boot:run
-    ```
+3.  **Open the ExpenseTrackerApplication (path: expenseTracker/src/main/java/com/example/expenseTracker/) :**
 
-4.  **Access the API:**
+4. **Click the green run button**
+
+5. **Access the API:**
     Test endpoints using a tool like Postman or with `curl`.
     ```bash
     curl -X GET http://localhost:8080/api/expenses
